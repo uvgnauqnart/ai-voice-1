@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Voice Studio",
+  "description": "A powerful text-to-speech application powered by Google Gemini. Generate high-quality, multi-lingual speech with various voices and SSML support.",
+  "requestFramePermissions": []
+}
